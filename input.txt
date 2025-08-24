@@ -1,0 +1,4 @@
+This is code challenge for week four
+ It invoves creating a new file called input and its a text
+ Then,you add atleast five lines of worsd in it but i will make four because why not.
+ I think its enough
